@@ -1,6 +1,6 @@
 # Subscription manager
 vityarthi project
-# Basic Subscription Manager (List Version)
+# Basic Subscription Manager 
 
 ## 💡 Overview of the Project
 
